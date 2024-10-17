@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Portfolio 2-0.1";
 const contentToCache = [
     "Build/Port2.loader.js",
-    "Build/Port2.framework.js.gz",
-    "Build/Port2.data.gz",
-    "Build/Port2.wasm.gz",
+    "Build/Port2.framework.js",
+    "Build/Port2.data",
+    "Build/Port2.wasm",
     "TemplateData/style.css"
 
 ];
