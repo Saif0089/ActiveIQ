@@ -1,11 +1,11 @@
 {
-    "name": "Skeleton SpeedRun",
-    "short_name": "Skeleton SpeedRun",
+    "name": "Portfolio 2",
+    "short_name": "Portfolio 2",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "None",
+    "description": "",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",

@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Skeleton SpeedRun-0.1";
+const cacheName = "DefaultCompany-Portfolio 2-0.1";
 const contentToCache = [
-    "Build/SkeletunSpeedRun.loader.js",
-    "Build/SkeletunSpeedRun.framework.js",
-    "Build/SkeletunSpeedRun.data",
-    "Build/SkeletunSpeedRun.wasm",
+    "Build/Port2.loader.js",
+    "Build/Port2.framework.js.gz",
+    "Build/Port2.data.gz",
+    "Build/Port2.wasm.gz",
     "TemplateData/style.css"
 
 ];
